@@ -1,5 +1,5 @@
 # Convex Hull with QuadTree
-<h3>A program that creates the <b>quadtree</b> out of the <b>convex hull</b> image.</h3> 
+<h3>A Python program that creates the <b>quadtree</b> out of the <b>convex hull</b> image.</h3> 
 The algorithm takes the advantage of <b>recursion</b> to do a divison only on the edges of figures. </br></br>
 QuadTree:</br>
 
